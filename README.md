@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**seok20/seok20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Wellcome!&fontSize=95&&animation=fadeIn&fontColor=ffffff&desc=This%20is%20seok20`s%20github!&descAlign=80&descAlignY=70&fontAlignY=40" />
 
-Here are some ideas to get you started:
+  <div>
+    <h3>🧑🏻‍💻 Who am I?</h2>
+    <p>1. 끝없는 도전과 성장을 갈구하는 프론트엔드 개발자예요.</p>
+    <p>2. 새로운 기술을 배우고 도전하는 것으로부터 삶의 원동력을 얻어요.</p>
+    <p>3. 문제를 분석하고 다양한 방법으로 해결해나가는 것을 즐거워해요.</p>
+  </div>
+  <hr>
+  <div>
+  <h3>💻 What can I?</h2>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=ffffff"/> 
+  
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=ffffff"/>
+  </div>
+  <hr>
+  <h3>🏢 Where am I?</h3>
+  <p>2017~2022 : Myongji University, Department of Computer Engineering</p>
+  <p>2022~2023 : Nangman Corp of Tech Leader</p>
+  <hr>
+  <h3>❓Anything else?</h3>
+  <a href="mailto:pine9805@kakao.com"><img src="https://img.shields.io/badge/my email-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=mailto:pine9805@kakao.com"/>
+  <a href="https://blog.naver.com/pine9805"><img src="https://img.shields.io/badge/my blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/pine9805"/></a> 
+  <a href="https://https://galvanized-bay-f1e.notion.site/Resume-ebdb3d0a7b7f4be8b85948f087d88077"><img src="https://img.shields.io/badge/my resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://https://galvanized-bay-f1e.notion.site/Resume-ebdb3d0a7b7f4be8b85948f087d88077"/></a> 
+  <hr>
+    
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok20&show_icons=true&theme=solarized-light)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pine9805)](https://solved.ac/pine9805)
+</div>

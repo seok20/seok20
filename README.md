@@ -2,6 +2,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Wellcome!&fontSize=95&&animation=fadeIn&fontColor=ffffff&desc=This%20is%20seok20`s%20github!&descAlign=80&descAlignY=70&fontAlignY=40" />
 
+  
+  
   <div>
     <h3>🧑🏻‍💻 Who am I?</h2>
     <p>1. 끝없는 도전과 성장을 갈구하는 프론트엔드 개발자예요.</p>

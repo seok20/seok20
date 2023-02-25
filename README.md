@@ -28,8 +28,9 @@
   <h3>❓Anything else?</h3>
   <a href="mailto:pine9805@kakao.com"><img src="https://img.shields.io/badge/my email-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=mailto:pine9805@kakao.com"/>
   <a href="https://blog.naver.com/pine9805"><img src="https://img.shields.io/badge/my blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/pine9805"/></a> 
-  <a href="https://https://galvanized-bay-f1e.notion.site/Resume-ebdb3d0a7b7f4be8b85948f087d88077"><img src="https://img.shields.io/badge/my resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://galvanized-bay-f1e.notion.site/Resume-ebdb3d0a7b7f4be8b85948f087d88077"/></a> 
+  <a href="https://https://galvanized-bay-f1e.notion.site/Resume-ebdb3d0a7b7f4be8b85948f087d88077"><img src="https://img.shields.io/badge/my resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://galvanized-bay-f1e.notion.site/seok_20-ebdb3d0a7b7f4be8b85948f087d88077"/></a> 
   <hr>
+    
     
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok20&show_icons=true&theme=solarized-light)

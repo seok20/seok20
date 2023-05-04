@@ -32,9 +32,4 @@
   <hr>
     
     
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seok20&show_icons=true&theme=solarized-light)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pine9805)](https://solved.ac/pine9805)
-</div>
